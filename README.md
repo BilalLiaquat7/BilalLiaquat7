@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilalLiaquat7&show_icons=true&theme=transparent" alt="BilalLiaquat7" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BilalLiaquat7&show_icons=true&theme=transparent"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalLiaquat7&size_weight=0.5&count_weight=0.5&show_icons=true&theme=transparent"/></p>
