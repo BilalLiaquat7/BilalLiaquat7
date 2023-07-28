@@ -25,7 +25,7 @@
 - 💬 Ask me about **JavaScript, React & Redux and Algorithms & Data Structures.**
 - 🤝  I'm open to collaborating on E-commerce Platform, Real-time Chat Application, Social Media Platform, Financial Management Tool, Online Learning Platform and Travel planning application.
 
-- 📫 How to reach me **bilalliaquat7@gmail.com**
+- 📫 How to reach me **bilal.liaquat7@gmail.com**
 
 - ⚡ Fun fact **I can debug code in my sleep, literally! I've had dreams where I found the perfect solution to a coding problem I was stuck on.**
 - 👨‍💻 All of my projects are available at [Github.com/BilalLiaquat7](https://github.com/BilalLiaquat7)
