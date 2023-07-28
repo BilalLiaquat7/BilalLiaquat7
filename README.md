@@ -1,8 +1,9 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-<h1 align="center">Hello World!👋, I'm Muhammad Bilal Liaquat</h1>
-<h3 align="center">A passionate Full-Stack Developer and Product Manager from Pakistan </h3>
+<h1 align="center">Hello!👋, I'm Muhammad Bilal Liaquat</h1>
+<h3 align="center">A Passionate Full-Stack Developer 🚀 | Problem Solver 💡 | Code Enthusiast 💻</h3>
 
+<p>I am proficient in JavaScript, I specialize in building dynamic and responsive web applications. With expertise in both front-end technologies like HTML, CSS, and React, as well as back-end technologies such as Node.js and Express, I create seamless user experiences and robust server-side functionalities.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalLiaquat7&label=Profile%20views&color=0e75b6&style=flat" alt="BilalLiaquat7" /> </p> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BilalLiaquat7" alt="BilalLiaquat7" /></a> </p> <br>
