@@ -7,10 +7,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalLiaquat7&label=Profile%20views&color=0e75b6&style=flat" alt="BilalLiaquat7" /> </p> <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BilalLiaquat7" alt="BilalLiaquat7" /></a> </p> <br>
+  <hr>
+  <p>🛠️ My Tech Stack:</p>
+  <ul>
+    <li>HTML: Building the structure of web pages</li>
+    <li>CSS: Styling and layout of web pages</li>
+    <li>JavaScript: Adding interactivity and functionality</li>
+    <!-- Add more technologies you are proficient in -->
+  </ul>
+<p>📝 Bio:</p>
 
+- 🌍  I'm based in Nairobi, Kenya.
+- 🔍 Open to New Opportunities!
+- 🌱 I’m currently learning **Ruby, Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms & Data Structures.**
+
+- 👨‍💻 See my portfolio at [MyPortifolio](https://bilalliaquat7.github.io/Portfolio/)
+- 💬 Ask me about **JavaScript, React & Redux and Algorithms & Data Structures.**
+- 🤝  I'm open to collaborating on E-commerce Platform, Real-time Chat Application, Social Media Platform, Financial Management Tool, Online Learning Platform and Travel planning application.
+
+- 📫 How to reach me **bilalliaquat7@gmail.com**
+
+- ⚡ Fun fact **I can debug code in my sleep, literally! I've had dreams where I found the perfect solution to a coding problem I was stuck on.**
 - 👨‍💻 All of my projects are available at [Github.com/BilalLiaquat7](https://github.com/BilalLiaquat7)
-
-- 📫 How to reach me **shahzamanlive2@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
