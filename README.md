@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 <h1 align="center">Hello World!👋, I'm Muhammad Bilal Liaquat</h1>
-<h3 align="center">A passionate Full-Stack developer and Product Manager from Pakistan </h3>
+<h3 align="center">A passionate Full-Stack Developer and Product Manager from Pakistan </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalLiaquat7&label=Profile%20views&color=0e75b6&style=flat" alt="BilalLiaquat7" /> </p> <br>
 
