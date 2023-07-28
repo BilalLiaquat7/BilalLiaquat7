@@ -17,7 +17,7 @@
   </ul>
 <p>📝 Bio:</p>
 
-- 🌍  I'm based in Nairobi, Kenya.
+- 🌍  I'm based in Islamabad, Pakistan.
 - 🔍 Open to New Opportunities!
 - 🌱 I’m currently learning **Ruby, Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms & Data Structures.**
 
